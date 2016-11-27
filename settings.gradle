@@ -1,0 +1,5 @@
+rootProject.name = 'cms'
+include 'cms-lib'
+include 'external-lib'
+include 'cms-web'
+
